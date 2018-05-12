@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8310
     wikipedia: http://de.wikipedia.org/wiki/Elise_Polko
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18870#Soitannollisia-satuja-ja-jutelmia
 gutenberg_issued: '2006-07-19'
 gutenberg_type: Text
 identifiers:
